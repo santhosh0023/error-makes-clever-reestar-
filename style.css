@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.reestar__desc{
+    color:#4C4C50;
+}
+.container{
+       
+     margin: 10px;
+    text-align: center;
+}
+.food{
+    border: solid black 2px;
+    display: inline-block;
+    text-align: center;
+    height: 270px;
+    width: 200px;
+    
+}
+.button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.footer{
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.footer-input{
+    display: inline-block;
+}
+.button1{
+    
+   text-align: center;
+ background-color: yellow;
+    padding-left: 150px;
+    padding-right: 150px;
+}
